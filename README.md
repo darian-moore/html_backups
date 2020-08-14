@@ -1,4 +1,4 @@
-# HTML backups
+# HTML Backups with Selenium
 
 Came into an issue where employees could edit sensitive information, so this program is used to create automatic daily backups, via
 Windows Task Scheduler, of all important admin tab settings. At first I wanted to scrape all data and put it into a csv file, however 
